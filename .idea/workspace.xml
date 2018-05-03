@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b48a68d-9624-4cd9-869d-a8382ed9791a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_35.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/org/destiny/classplader/MyClassLoaderTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/org/destiny/jvm/loader/ClassFileAnalyserTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/org/destiny/jvm/loader/ClassFileLoaderTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/minijvm.iml" afterPath="$PROJECT_DIR$/minijvm.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/destiny/jvm/model/attr/Code.java" afterPath="$PROJECT_DIR$/src/main/java/org/destiny/jvm/model/attr/Code.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/destiny/jvm/model/runtime/StackFrame.java" afterPath="$PROJECT_DIR$/src/main/java/org/destiny/jvm/model/runtime/StackFrame.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -577,7 +562,7 @@
       <option name="presentableId" value="Default" />
       <updated>1525346439617</updated>
       <workItem from="1525346441081" duration="101000" />
-      <workItem from="1525346643325" duration="411000" />
+      <workItem from="1525346643325" duration="611000" />
     </task>
     <servers />
   </component>
@@ -587,7 +572,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="512000" />
+    <option name="totallyTimeSpent" value="712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-268" y="-1080" width="1920" height="1080" extended-state="6" />

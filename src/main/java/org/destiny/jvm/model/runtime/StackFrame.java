@@ -4,7 +4,9 @@ package org.destiny.jvm.model.runtime;
  * @author 王康
  * hzwangkang1@corp.netease.com
  * ------------------------------------------------------------------
- * <p></p>
+ * <p>
+ *     栈帧对象
+ * </p>
  * ------------------------------------------------------------------
  * Corpright 2017 Netease, Inc. All rights reserved.
  * NETEASE PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.

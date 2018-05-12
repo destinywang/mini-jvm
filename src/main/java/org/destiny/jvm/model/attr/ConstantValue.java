@@ -4,7 +4,7 @@ import org.destiny.jvm.model.AbstractAttributeInfo;
 
 /**
  * @author 王康
- * hzwangkang1@corp.netease.com
+ * destinywk@163.com
  * ------------------------------------------------------------------
  * <p>
  *     定长属性
@@ -12,7 +12,7 @@ import org.destiny.jvm.model.AbstractAttributeInfo;
  *     则说明这个field_info结构所表示的字段，将赋值为它的ConstantValue属性所表示的值
  * </p>
  * ------------------------------------------------------------------
- * Corpright 2017 Netease, Inc. All rights reserved.
+ * Corpright 2017 Destiny, Org. All rights reserved.
  * NETEASE PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  * @version JDK 1.8.0_101
  * @since 2017/8/22 16:38

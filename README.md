@@ -254,36 +254,7 @@ do {
     
     
 
-opcode | byte | short | int | long | float | double | char | reference | 含义
-:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-Tipush | bipush | sipush
-Tconst |||iconst|lconst|fconst|dconst|| aconst |
-Tload|||iload|lload|fload|dload||aload|
-Tstore|||istore|lstore|fstore|dstore||astore|
-Tinc|||iinc||||||
-Taload|baload|saload|iaload|laload|faload|daload|caload|aaload|
-Tastore|bastore|sastore|iastore|lastore|fastore|dastore|castore|aastore|
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
-|||||||||
+
 ## 2.2 加载和存储指令
 
     加载和存储指令用于将数据在栈帧中的局部变量表和操作数栈之间来回传输

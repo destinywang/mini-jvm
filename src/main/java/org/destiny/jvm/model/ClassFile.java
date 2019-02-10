@@ -52,6 +52,10 @@ public class ClassFile {
         return null;
     }
 
+    public MethodInfo getMainMethod() {
+        return getMethod("main", "([Ljava/lang/String;)V");
+    }
+
     public String getMagicNumber() {
         return magicNumber;
     }

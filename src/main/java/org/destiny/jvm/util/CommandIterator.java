@@ -1,4 +1,4 @@
-package org.destiny.jvm;
+package org.destiny.jvm.util;
 
 /**
  * @author 王康

@@ -1,8 +1,8 @@
 package org.destiny.jvm.loader;
 
-import org.destiny.jvm.AttributeFactory;
-import org.destiny.jvm.ByteCodeIterator;
-import org.destiny.jvm.ConstantFactory;
+import org.destiny.jvm.util.AttributeFactory;
+import org.destiny.jvm.util.ByteCodeIterator;
+import org.destiny.jvm.util.ConstantFactory;
 import org.destiny.jvm.model.*;
 import org.destiny.jvm.model.constant.ConstantPool;
 import org.destiny.jvm.model.constant.detail.AbstractConstantInfo;

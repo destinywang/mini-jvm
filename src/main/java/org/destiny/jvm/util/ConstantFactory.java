@@ -1,6 +1,5 @@
-package org.destiny.jvm;
+package org.destiny.jvm.util;
 
-import org.destiny.jvm.model.constant.ConstantInfoEnum;
 import org.destiny.jvm.model.constant.detail.*;
 
 /**
@@ -21,7 +20,6 @@ public class ConstantFactory {
 
     public AbstractConstantInfo create(ByteCodeIterator iterator) {
         int tag = iterator.readU1ToInt();
-//        System.out.println("#" + tag + ": " + ConstantInfoEnum.valueOf(tag));
 
         AbstractConstantInfo constantInfo = null;
         switch (tag) {

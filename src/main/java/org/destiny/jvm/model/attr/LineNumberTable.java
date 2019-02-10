@@ -1,6 +1,6 @@
 package org.destiny.jvm.model.attr;
 
-import org.destiny.jvm.ByteCodeIterator;
+import org.destiny.jvm.util.ByteCodeIterator;
 import org.destiny.jvm.model.AbstractAttributeInfo;
 
 import java.util.List;

@@ -1,11 +1,8 @@
 package org.destiny.jvm.model.command;
 
-import org.destiny.jvm.CommandIterator;
-import org.destiny.jvm.model.ClassFile;
+import org.destiny.jvm.util.CommandIterator;
 import org.destiny.jvm.model.constant.ConstantPool;
 
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package org.destiny.jvm;
+package org.destiny.jvm.util;
 
 import org.destiny.jvm.model.AbstractAttributeInfo;
 import org.destiny.jvm.model.attr.Code;
@@ -9,7 +9,6 @@ import org.destiny.jvm.model.command.CommandParser;
 import org.destiny.jvm.model.constant.ConstantPool;
 import org.destiny.jvm.model.constant.detail.ConstantUtf8Info;
 
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 

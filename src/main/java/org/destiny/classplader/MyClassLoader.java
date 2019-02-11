@@ -32,7 +32,8 @@ public class MyClassLoader extends ClassLoader {
     private byte[] loadByteCode(String name) {
         String fileName = "/Users/destiny"
                 + File.separatorChar + name.replace('.', File.separatorChar) + ".class";
-        try (InputStream inputStream = new FileInputStream(fileName); ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream()) {
+        try (InputStream inputStream = new FileInputStream(fileName);
+             ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream()) {
             byte[] buffer = new byte[1024];
             int length = 0;
             while ((length = inputStream.read(buffer)) != -1) {
